@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jrsheng
+HostName                       big09.seas.upenn.edu
+ProcessIdentifier              2571668
+ProcessCreationTime_UTC        1774709730
+ProcessCreationTime_Readable   Sat Mar 28 10:55:30 2026 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /lcars/home/j/jrsheng/cadenceAMI/ese6800_project2/flip_around_v0/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Mar 28 12:11:59 2026 EDT
